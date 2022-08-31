@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\ComparingIntegers\bin\Debug\net6.0\ComparingIntegers.exe
+C:\Users\chris\source\repos\ComparingIntegers\bin\Debug\net6.0\ComparingIntegers.deps.json
+C:\Users\chris\source\repos\ComparingIntegers\bin\Debug\net6.0\ComparingIntegers.runtimeconfig.json
+C:\Users\chris\source\repos\ComparingIntegers\bin\Debug\net6.0\ComparingIntegers.dll
+C:\Users\chris\source\repos\ComparingIntegers\bin\Debug\net6.0\ComparingIntegers.pdb
+C:\Users\chris\source\repos\ComparingIntegers\obj\Debug\net6.0\ComparingIntegers.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\ComparingIntegers\obj\Debug\net6.0\ComparingIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\ComparingIntegers\obj\Debug\net6.0\ComparingIntegers.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\ComparingIntegers\obj\Debug\net6.0\ComparingIntegers.AssemblyInfo.cs
+C:\Users\chris\source\repos\ComparingIntegers\obj\Debug\net6.0\ComparingIntegers.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\ComparingIntegers\obj\Debug\net6.0\ComparingIntegers.dll
+C:\Users\chris\source\repos\ComparingIntegers\obj\Debug\net6.0\refint\ComparingIntegers.dll
+C:\Users\chris\source\repos\ComparingIntegers\obj\Debug\net6.0\ComparingIntegers.pdb
+C:\Users\chris\source\repos\ComparingIntegers\obj\Debug\net6.0\ComparingIntegers.genruntimeconfig.cache
+C:\Users\chris\source\repos\ComparingIntegers\obj\Debug\net6.0\ref\ComparingIntegers.dll
