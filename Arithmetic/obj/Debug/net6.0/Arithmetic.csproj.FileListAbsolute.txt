@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\Arithmetic\bin\Debug\net6.0\Arithmetic.exe
+C:\Users\chris\source\repos\Arithmetic\bin\Debug\net6.0\Arithmetic.deps.json
+C:\Users\chris\source\repos\Arithmetic\bin\Debug\net6.0\Arithmetic.runtimeconfig.json
+C:\Users\chris\source\repos\Arithmetic\bin\Debug\net6.0\Arithmetic.dll
+C:\Users\chris\source\repos\Arithmetic\bin\Debug\net6.0\Arithmetic.pdb
+C:\Users\chris\source\repos\Arithmetic\obj\Debug\net6.0\Arithmetic.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\Arithmetic\obj\Debug\net6.0\Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\Arithmetic\obj\Debug\net6.0\Arithmetic.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\Arithmetic\obj\Debug\net6.0\Arithmetic.AssemblyInfo.cs
+C:\Users\chris\source\repos\Arithmetic\obj\Debug\net6.0\Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Arithmetic\obj\Debug\net6.0\Arithmetic.dll
+C:\Users\chris\source\repos\Arithmetic\obj\Debug\net6.0\refint\Arithmetic.dll
+C:\Users\chris\source\repos\Arithmetic\obj\Debug\net6.0\Arithmetic.pdb
+C:\Users\chris\source\repos\Arithmetic\obj\Debug\net6.0\Arithmetic.genruntimeconfig.cache
+C:\Users\chris\source\repos\Arithmetic\obj\Debug\net6.0\ref\Arithmetic.dll
