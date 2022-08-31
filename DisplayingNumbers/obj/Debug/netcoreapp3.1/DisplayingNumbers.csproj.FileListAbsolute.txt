@@ -1,0 +1,14 @@
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingNumbers\bin\Debug\netcoreapp3.1\DisplayingNumbers.exe
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingNumbers\bin\Debug\netcoreapp3.1\DisplayingNumbers.deps.json
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingNumbers\bin\Debug\netcoreapp3.1\DisplayingNumbers.runtimeconfig.json
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingNumbers\bin\Debug\netcoreapp3.1\DisplayingNumbers.runtimeconfig.dev.json
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingNumbers\bin\Debug\netcoreapp3.1\DisplayingNumbers.dll
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingNumbers\bin\Debug\netcoreapp3.1\DisplayingNumbers.pdb
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingNumbers\obj\Debug\netcoreapp3.1\DisplayingNumbers.csproj.AssemblyReference.cache
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingNumbers\obj\Debug\netcoreapp3.1\DisplayingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingNumbers\obj\Debug\netcoreapp3.1\DisplayingNumbers.AssemblyInfoInputs.cache
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingNumbers\obj\Debug\netcoreapp3.1\DisplayingNumbers.AssemblyInfo.cs
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingNumbers\obj\Debug\netcoreapp3.1\DisplayingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingNumbers\obj\Debug\netcoreapp3.1\DisplayingNumbers.dll
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingNumbers\obj\Debug\netcoreapp3.1\DisplayingNumbers.pdb
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingNumbers\obj\Debug\netcoreapp3.1\DisplayingNumbers.genruntimeconfig.cache
