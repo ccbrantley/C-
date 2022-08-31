@@ -1,0 +1,17 @@
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\RadioGUI\bin\Debug\netcoreapp3.1\RadioGUI.exe
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\RadioGUI\bin\Debug\netcoreapp3.1\RadioGUI.deps.json
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\RadioGUI\bin\Debug\netcoreapp3.1\RadioGUI.runtimeconfig.json
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\RadioGUI\bin\Debug\netcoreapp3.1\RadioGUI.runtimeconfig.dev.json
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\RadioGUI\bin\Debug\netcoreapp3.1\RadioGUI.dll
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\RadioGUI\bin\Debug\netcoreapp3.1\RadioGUI.pdb
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\RadioGUI\obj\Debug\netcoreapp3.1\RadioGUI.csproj.AssemblyReference.cache
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\RadioGUI\obj\Debug\netcoreapp3.1\RadioGUI.Form1.resources
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\RadioGUI\obj\Debug\netcoreapp3.1\RadioGUI.Properties.Resources.resources
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\RadioGUI\obj\Debug\netcoreapp3.1\RadioGUI.csproj.GenerateResource.cache
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\RadioGUI\obj\Debug\netcoreapp3.1\RadioGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\RadioGUI\obj\Debug\netcoreapp3.1\RadioGUI.AssemblyInfoInputs.cache
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\RadioGUI\obj\Debug\netcoreapp3.1\RadioGUI.AssemblyInfo.cs
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\RadioGUI\obj\Debug\netcoreapp3.1\RadioGUI.csproj.CoreCompileInputs.cache
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\RadioGUI\obj\Debug\netcoreapp3.1\RadioGUI.dll
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\RadioGUI\obj\Debug\netcoreapp3.1\RadioGUI.pdb
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\RadioGUI\obj\Debug\netcoreapp3.1\RadioGUI.genruntimeconfig.cache
