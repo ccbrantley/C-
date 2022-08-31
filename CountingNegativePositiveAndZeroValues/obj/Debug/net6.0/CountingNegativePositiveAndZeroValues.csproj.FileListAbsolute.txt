@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\CountingNegativePositiveAndZeroValues\bin\Debug\net6.0\CountingNegativePositiveAndZeroValues.exe
+C:\Users\chris\source\repos\CountingNegativePositiveAndZeroValues\bin\Debug\net6.0\CountingNegativePositiveAndZeroValues.deps.json
+C:\Users\chris\source\repos\CountingNegativePositiveAndZeroValues\bin\Debug\net6.0\CountingNegativePositiveAndZeroValues.runtimeconfig.json
+C:\Users\chris\source\repos\CountingNegativePositiveAndZeroValues\bin\Debug\net6.0\CountingNegativePositiveAndZeroValues.dll
+C:\Users\chris\source\repos\CountingNegativePositiveAndZeroValues\bin\Debug\net6.0\CountingNegativePositiveAndZeroValues.pdb
+C:\Users\chris\source\repos\CountingNegativePositiveAndZeroValues\obj\Debug\net6.0\CountingNegativePositiveAndZeroValues.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\CountingNegativePositiveAndZeroValues\obj\Debug\net6.0\CountingNegativePositiveAndZeroValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\CountingNegativePositiveAndZeroValues\obj\Debug\net6.0\CountingNegativePositiveAndZeroValues.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\CountingNegativePositiveAndZeroValues\obj\Debug\net6.0\CountingNegativePositiveAndZeroValues.AssemblyInfo.cs
+C:\Users\chris\source\repos\CountingNegativePositiveAndZeroValues\obj\Debug\net6.0\CountingNegativePositiveAndZeroValues.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\CountingNegativePositiveAndZeroValues\obj\Debug\net6.0\CountingNegativePositiveAndZeroValues.dll
+C:\Users\chris\source\repos\CountingNegativePositiveAndZeroValues\obj\Debug\net6.0\refint\CountingNegativePositiveAndZeroValues.dll
+C:\Users\chris\source\repos\CountingNegativePositiveAndZeroValues\obj\Debug\net6.0\CountingNegativePositiveAndZeroValues.pdb
+C:\Users\chris\source\repos\CountingNegativePositiveAndZeroValues\obj\Debug\net6.0\CountingNegativePositiveAndZeroValues.genruntimeconfig.cache
+C:\Users\chris\source\repos\CountingNegativePositiveAndZeroValues\obj\Debug\net6.0\ref\CountingNegativePositiveAndZeroValues.dll
