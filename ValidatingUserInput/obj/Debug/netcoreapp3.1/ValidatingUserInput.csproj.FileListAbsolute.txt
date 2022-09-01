@@ -1,0 +1,13 @@
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\ValidatingUserInput\bin\Debug\netcoreapp3.1\ValidatingUserInput.exe
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\ValidatingUserInput\bin\Debug\netcoreapp3.1\ValidatingUserInput.deps.json
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\ValidatingUserInput\bin\Debug\netcoreapp3.1\ValidatingUserInput.runtimeconfig.json
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\ValidatingUserInput\bin\Debug\netcoreapp3.1\ValidatingUserInput.runtimeconfig.dev.json
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\ValidatingUserInput\bin\Debug\netcoreapp3.1\ValidatingUserInput.dll
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\ValidatingUserInput\bin\Debug\netcoreapp3.1\ValidatingUserInput.pdb
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\ValidatingUserInput\obj\Debug\netcoreapp3.1\ValidatingUserInput.csprojAssemblyReference.cache
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\ValidatingUserInput\obj\Debug\netcoreapp3.1\ValidatingUserInput.AssemblyInfoInputs.cache
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\ValidatingUserInput\obj\Debug\netcoreapp3.1\ValidatingUserInput.AssemblyInfo.cs
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\ValidatingUserInput\obj\Debug\netcoreapp3.1\ValidatingUserInput.csproj.CoreCompileInputs.cache
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\ValidatingUserInput\obj\Debug\netcoreapp3.1\ValidatingUserInput.dll
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\ValidatingUserInput\obj\Debug\netcoreapp3.1\ValidatingUserInput.pdb
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\ValidatingUserInput\obj\Debug\netcoreapp3.1\ValidatingUserInput.genruntimeconfig.cache
