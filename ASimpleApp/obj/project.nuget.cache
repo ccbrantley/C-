@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nuXiiFREeQvDB9ACKLseXPWRf+XM2BQLubKNxOoTCH84Vzz01JfcAobIGzwfv51vBa0B641p5eYAdkKI+7QQhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ccbrantley\\source\\repos\\ASimpleApp\\ASimpleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ccbrantley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\ccbrantley\source\repos\ASimpleApp\bin\Debug\netcoreapp3.1\ASimpleApp.exe
+C:\Users\ccbrantley\source\repos\ASimpleApp\bin\Debug\netcoreapp3.1\ASimpleApp.deps.json
+C:\Users\ccbrantley\source\repos\ASimpleApp\bin\Debug\netcoreapp3.1\ASimpleApp.runtimeconfig.json
+C:\Users\ccbrantley\source\repos\ASimpleApp\bin\Debug\netcoreapp3.1\ASimpleApp.runtimeconfig.dev.json
+C:\Users\ccbrantley\source\repos\ASimpleApp\bin\Debug\netcoreapp3.1\ASimpleApp.dll
+C:\Users\ccbrantley\source\repos\ASimpleApp\bin\Debug\netcoreapp3.1\ASimpleApp.pdb
+C:\Users\ccbrantley\source\repos\ASimpleApp\obj\Debug\netcoreapp3.1\ASimpleApp.csprojAssemblyReference.cache
+C:\Users\ccbrantley\source\repos\ASimpleApp\obj\Debug\netcoreapp3.1\ASimpleApp.Form1.resources
+C:\Users\ccbrantley\source\repos\ASimpleApp\obj\Debug\netcoreapp3.1\ASimpleApp.Properties.Resources.resources
+C:\Users\ccbrantley\source\repos\ASimpleApp\obj\Debug\netcoreapp3.1\ASimpleApp.csproj.GenerateResource.cache
+C:\Users\ccbrantley\source\repos\ASimpleApp\obj\Debug\netcoreapp3.1\ASimpleApp.AssemblyInfoInputs.cache
+C:\Users\ccbrantley\source\repos\ASimpleApp\obj\Debug\netcoreapp3.1\ASimpleApp.AssemblyInfo.cs
+C:\Users\ccbrantley\source\repos\ASimpleApp\obj\Debug\netcoreapp3.1\ASimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\ccbrantley\source\repos\ASimpleApp\obj\Debug\netcoreapp3.1\ASimpleApp.dll
+C:\Users\ccbrantley\source\repos\ASimpleApp\obj\Debug\netcoreapp3.1\ASimpleApp.pdb
+C:\Users\ccbrantley\source\repos\ASimpleApp\obj\Debug\netcoreapp3.1\ASimpleApp.genruntimeconfig.cache
