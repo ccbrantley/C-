@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\FindTheLargestNumber\bin\Debug\net6.0\FindTheLargestNumber.exe
+C:\Users\chris\source\repos\FindTheLargestNumber\bin\Debug\net6.0\FindTheLargestNumber.deps.json
+C:\Users\chris\source\repos\FindTheLargestNumber\bin\Debug\net6.0\FindTheLargestNumber.runtimeconfig.json
+C:\Users\chris\source\repos\FindTheLargestNumber\bin\Debug\net6.0\FindTheLargestNumber.dll
+C:\Users\chris\source\repos\FindTheLargestNumber\bin\Debug\net6.0\FindTheLargestNumber.pdb
+C:\Users\chris\source\repos\FindTheLargestNumber\obj\Debug\net6.0\FindTheLargestNumber.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\FindTheLargestNumber\obj\Debug\net6.0\FindTheLargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\FindTheLargestNumber\obj\Debug\net6.0\FindTheLargestNumber.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\FindTheLargestNumber\obj\Debug\net6.0\FindTheLargestNumber.AssemblyInfo.cs
+C:\Users\chris\source\repos\FindTheLargestNumber\obj\Debug\net6.0\FindTheLargestNumber.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\FindTheLargestNumber\obj\Debug\net6.0\FindTheLargestNumber.dll
+C:\Users\chris\source\repos\FindTheLargestNumber\obj\Debug\net6.0\refint\FindTheLargestNumber.dll
+C:\Users\chris\source\repos\FindTheLargestNumber\obj\Debug\net6.0\FindTheLargestNumber.pdb
+C:\Users\chris\source\repos\FindTheLargestNumber\obj\Debug\net6.0\FindTheLargestNumber.genruntimeconfig.cache
+C:\Users\chris\source\repos\FindTheLargestNumber\obj\Debug\net6.0\ref\FindTheLargestNumber.dll
