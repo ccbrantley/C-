@@ -1,0 +1,13 @@
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\AccountModification\obj\Debug\netcoreapp3.1\AccountModification.csprojAssemblyReference.cache
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\AccountModification\obj\Debug\netcoreapp3.1\AccountModification.AssemblyInfoInputs.cache
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\AccountModification\obj\Debug\netcoreapp3.1\AccountModification.AssemblyInfo.cs
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\AccountModification\obj\Debug\netcoreapp3.1\AccountModification.csproj.CoreCompileInputs.cache
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\AccountModification\bin\Debug\netcoreapp3.1\AccountModification.exe
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\AccountModification\bin\Debug\netcoreapp3.1\AccountModification.deps.json
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\AccountModification\bin\Debug\netcoreapp3.1\AccountModification.runtimeconfig.json
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\AccountModification\bin\Debug\netcoreapp3.1\AccountModification.runtimeconfig.dev.json
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\AccountModification\bin\Debug\netcoreapp3.1\AccountModification.dll
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\AccountModification\bin\Debug\netcoreapp3.1\AccountModification.pdb
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\AccountModification\obj\Debug\netcoreapp3.1\AccountModification.dll
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\AccountModification\obj\Debug\netcoreapp3.1\AccountModification.pdb
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\AccountModification\obj\Debug\netcoreapp3.1\AccountModification.genruntimeconfig.cache
