@@ -1,0 +1,13 @@
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\TopSeller\bin\Debug\netcoreapp3.1\TopSeller.exe
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\TopSeller\bin\Debug\netcoreapp3.1\TopSeller.deps.json
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\TopSeller\bin\Debug\netcoreapp3.1\TopSeller.runtimeconfig.json
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\TopSeller\bin\Debug\netcoreapp3.1\TopSeller.runtimeconfig.dev.json
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\TopSeller\bin\Debug\netcoreapp3.1\TopSeller.dll
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\TopSeller\bin\Debug\netcoreapp3.1\TopSeller.pdb
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\TopSeller\obj\Debug\netcoreapp3.1\TopSeller.csprojAssemblyReference.cache
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\TopSeller\obj\Debug\netcoreapp3.1\TopSeller.AssemblyInfoInputs.cache
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\TopSeller\obj\Debug\netcoreapp3.1\TopSeller.AssemblyInfo.cs
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\TopSeller\obj\Debug\netcoreapp3.1\TopSeller.csproj.CoreCompileInputs.cache
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\TopSeller\obj\Debug\netcoreapp3.1\TopSeller.dll
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\TopSeller\obj\Debug\netcoreapp3.1\TopSeller.pdb
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\TopSeller\obj\Debug\netcoreapp3.1\TopSeller.genruntimeconfig.cache
