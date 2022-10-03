@@ -1,0 +1,12 @@
+C:\Users\ccbrantley\source\repos\Employee\bin\Debug\netcoreapp3.1\Employee.exe
+C:\Users\ccbrantley\source\repos\Employee\bin\Debug\netcoreapp3.1\Employee.deps.json
+C:\Users\ccbrantley\source\repos\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.json
+C:\Users\ccbrantley\source\repos\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.dev.json
+C:\Users\ccbrantley\source\repos\Employee\bin\Debug\netcoreapp3.1\Employee.dll
+C:\Users\ccbrantley\source\repos\Employee\bin\Debug\netcoreapp3.1\Employee.pdb
+C:\Users\ccbrantley\source\repos\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfoInputs.cache
+C:\Users\ccbrantley\source\repos\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfo.cs
+C:\Users\ccbrantley\source\repos\Employee\obj\Debug\netcoreapp3.1\Employee.csproj.CoreCompileInputs.cache
+C:\Users\ccbrantley\source\repos\Employee\obj\Debug\netcoreapp3.1\Employee.dll
+C:\Users\ccbrantley\source\repos\Employee\obj\Debug\netcoreapp3.1\Employee.pdb
+C:\Users\ccbrantley\source\repos\Employee\obj\Debug\netcoreapp3.1\Employee.genruntimeconfig.cache
