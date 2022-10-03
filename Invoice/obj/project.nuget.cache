@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "faty4nTrHw964UxAlsAcebHXkpUxM4Z/Sy02hLPvTx+2O+79EpkYsGimjJGEn36u8gc1CWCd7vhcvj3qA636pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ccbrantley\\OneDrive - GTCC\\Desktop\\My Visual Studio Code\\Invoice\\Invoice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ccbrantley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
