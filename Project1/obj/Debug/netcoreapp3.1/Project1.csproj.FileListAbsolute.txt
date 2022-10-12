@@ -1,0 +1,14 @@
+C:\Users\ccbrantley\source\repos\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+C:\Users\ccbrantley\source\repos\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\Users\ccbrantley\source\repos\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\Users\ccbrantley\source\repos\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\Users\ccbrantley\source\repos\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+C:\Users\ccbrantley\source\repos\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\ccbrantley\source\repos\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.AssemblyReference.cache
+C:\Users\ccbrantley\source\repos\Project1\obj\Debug\netcoreapp3.1\Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccbrantley\source\repos\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\Users\ccbrantley\source\repos\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\Users\ccbrantley\source\repos\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\ccbrantley\source\repos\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+C:\Users\ccbrantley\source\repos\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\ccbrantley\source\repos\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
