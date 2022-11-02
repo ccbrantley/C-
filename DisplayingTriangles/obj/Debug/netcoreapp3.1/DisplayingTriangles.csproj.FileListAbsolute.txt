@@ -1,0 +1,13 @@
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingTriangles\bin\Debug\netcoreapp3.1\DisplayingTriangles.exe
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingTriangles\bin\Debug\netcoreapp3.1\DisplayingTriangles.deps.json
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingTriangles\bin\Debug\netcoreapp3.1\DisplayingTriangles.runtimeconfig.json
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingTriangles\bin\Debug\netcoreapp3.1\DisplayingTriangles.runtimeconfig.dev.json
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingTriangles\bin\Debug\netcoreapp3.1\DisplayingTriangles.dll
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingTriangles\bin\Debug\netcoreapp3.1\DisplayingTriangles.pdb
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingTriangles\obj\Debug\netcoreapp3.1\DisplayingTriangles.csprojAssemblyReference.cache
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingTriangles\obj\Debug\netcoreapp3.1\DisplayingTriangles.AssemblyInfoInputs.cache
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingTriangles\obj\Debug\netcoreapp3.1\DisplayingTriangles.AssemblyInfo.cs
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingTriangles\obj\Debug\netcoreapp3.1\DisplayingTriangles.csproj.CoreCompileInputs.cache
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingTriangles\obj\Debug\netcoreapp3.1\DisplayingTriangles.dll
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingTriangles\obj\Debug\netcoreapp3.1\DisplayingTriangles.pdb
+C:\Users\ccbrantley\OneDrive - GTCC\Desktop\My Visual Studio Code\DisplayingTriangles\obj\Debug\netcoreapp3.1\DisplayingTriangles.genruntimeconfig.cache
