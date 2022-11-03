@@ -1,0 +1,13 @@
+C:\Users\ccbrantley\source\repos\DisplayingABarChart\bin\Debug\netcoreapp3.1\DisplayingABarChart.exe
+C:\Users\ccbrantley\source\repos\DisplayingABarChart\bin\Debug\netcoreapp3.1\DisplayingABarChart.deps.json
+C:\Users\ccbrantley\source\repos\DisplayingABarChart\bin\Debug\netcoreapp3.1\DisplayingABarChart.runtimeconfig.json
+C:\Users\ccbrantley\source\repos\DisplayingABarChart\bin\Debug\netcoreapp3.1\DisplayingABarChart.runtimeconfig.dev.json
+C:\Users\ccbrantley\source\repos\DisplayingABarChart\bin\Debug\netcoreapp3.1\DisplayingABarChart.dll
+C:\Users\ccbrantley\source\repos\DisplayingABarChart\bin\Debug\netcoreapp3.1\DisplayingABarChart.pdb
+C:\Users\ccbrantley\source\repos\DisplayingABarChart\obj\Debug\netcoreapp3.1\DisplayingABarChart.AssemblyInfoInputs.cache
+C:\Users\ccbrantley\source\repos\DisplayingABarChart\obj\Debug\netcoreapp3.1\DisplayingABarChart.AssemblyInfo.cs
+C:\Users\ccbrantley\source\repos\DisplayingABarChart\obj\Debug\netcoreapp3.1\DisplayingABarChart.csproj.CoreCompileInputs.cache
+C:\Users\ccbrantley\source\repos\DisplayingABarChart\obj\Debug\netcoreapp3.1\DisplayingABarChart.dll
+C:\Users\ccbrantley\source\repos\DisplayingABarChart\obj\Debug\netcoreapp3.1\DisplayingABarChart.pdb
+C:\Users\ccbrantley\source\repos\DisplayingABarChart\obj\Debug\netcoreapp3.1\DisplayingABarChart.genruntimeconfig.cache
+C:\Users\ccbrantley\source\repos\DisplayingABarChart\obj\Debug\netcoreapp3.1\DisplayingABarChart.csprojAssemblyReference.cache

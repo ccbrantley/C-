@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DiUrNR1cHKvLA97hejNCWeH0Q2CO8aXczl+flYwZk7EbWUwsm9aBg3Rdal07VjjT7iV0RwrGhH/fD7pwvh2CSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ccbrantley\\source\\repos\\DisplayingABarChart\\DisplayingABarChart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ccbrantley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
