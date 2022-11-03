@@ -1,0 +1,13 @@
+C:\Users\ccbrantley\source\repos\CalculatingSales\bin\Debug\netcoreapp3.1\CalculatingSales.exe
+C:\Users\ccbrantley\source\repos\CalculatingSales\bin\Debug\netcoreapp3.1\CalculatingSales.deps.json
+C:\Users\ccbrantley\source\repos\CalculatingSales\bin\Debug\netcoreapp3.1\CalculatingSales.runtimeconfig.json
+C:\Users\ccbrantley\source\repos\CalculatingSales\bin\Debug\netcoreapp3.1\CalculatingSales.runtimeconfig.dev.json
+C:\Users\ccbrantley\source\repos\CalculatingSales\bin\Debug\netcoreapp3.1\CalculatingSales.dll
+C:\Users\ccbrantley\source\repos\CalculatingSales\bin\Debug\netcoreapp3.1\CalculatingSales.pdb
+C:\Users\ccbrantley\source\repos\CalculatingSales\obj\Debug\netcoreapp3.1\CalculatingSales.csprojAssemblyReference.cache
+C:\Users\ccbrantley\source\repos\CalculatingSales\obj\Debug\netcoreapp3.1\CalculatingSales.AssemblyInfoInputs.cache
+C:\Users\ccbrantley\source\repos\CalculatingSales\obj\Debug\netcoreapp3.1\CalculatingSales.AssemblyInfo.cs
+C:\Users\ccbrantley\source\repos\CalculatingSales\obj\Debug\netcoreapp3.1\CalculatingSales.csproj.CoreCompileInputs.cache
+C:\Users\ccbrantley\source\repos\CalculatingSales\obj\Debug\netcoreapp3.1\CalculatingSales.dll
+C:\Users\ccbrantley\source\repos\CalculatingSales\obj\Debug\netcoreapp3.1\CalculatingSales.pdb
+C:\Users\ccbrantley\source\repos\CalculatingSales\obj\Debug\netcoreapp3.1\CalculatingSales.genruntimeconfig.cache
