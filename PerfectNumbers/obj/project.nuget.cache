@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XsWeJzyFUpshGT+phYZNIsj/8Q4xQ5zRbzPa4IzbMUUkLq10nH7YNRrYFr0smBQ2mFWah7swcupdWzGPZmocdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ccbrantley\\source\\repos\\PerfectNumbers\\PerfectNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ccbrantley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
