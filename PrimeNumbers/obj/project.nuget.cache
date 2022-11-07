@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "15n4WU95+bY9BECU0ubHm8D9B0wWlqKkpRmG6daT9S874L14iCm+d4kjMmudec3+3BIuHm1XOAbRzSJZmQmQDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ccbrantley\\source\\repos\\PrimeNumbers\\PrimeNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ccbrantley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
