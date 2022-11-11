@@ -1,0 +1,13 @@
+C:\Users\ccbrantley\source\repos\Project2 (RPS)\bin\Debug\netcoreapp3.1\Project2 (RPS).exe
+C:\Users\ccbrantley\source\repos\Project2 (RPS)\bin\Debug\netcoreapp3.1\Project2 (RPS).deps.json
+C:\Users\ccbrantley\source\repos\Project2 (RPS)\bin\Debug\netcoreapp3.1\Project2 (RPS).runtimeconfig.json
+C:\Users\ccbrantley\source\repos\Project2 (RPS)\bin\Debug\netcoreapp3.1\Project2 (RPS).runtimeconfig.dev.json
+C:\Users\ccbrantley\source\repos\Project2 (RPS)\bin\Debug\netcoreapp3.1\Project2 (RPS).dll
+C:\Users\ccbrantley\source\repos\Project2 (RPS)\bin\Debug\netcoreapp3.1\Project2 (RPS).pdb
+C:\Users\ccbrantley\source\repos\Project2 (RPS)\obj\Debug\netcoreapp3.1\Project2 (RPS).csprojAssemblyReference.cache
+C:\Users\ccbrantley\source\repos\Project2 (RPS)\obj\Debug\netcoreapp3.1\Project2 (RPS).AssemblyInfoInputs.cache
+C:\Users\ccbrantley\source\repos\Project2 (RPS)\obj\Debug\netcoreapp3.1\Project2 (RPS).AssemblyInfo.cs
+C:\Users\ccbrantley\source\repos\Project2 (RPS)\obj\Debug\netcoreapp3.1\Project2 (RPS).csproj.CoreCompileInputs.cache
+C:\Users\ccbrantley\source\repos\Project2 (RPS)\obj\Debug\netcoreapp3.1\Project2 (RPS).dll
+C:\Users\ccbrantley\source\repos\Project2 (RPS)\obj\Debug\netcoreapp3.1\Project2 (RPS).pdb
+C:\Users\ccbrantley\source\repos\Project2 (RPS)\obj\Debug\netcoreapp3.1\Project2 (RPS).genruntimeconfig.cache
