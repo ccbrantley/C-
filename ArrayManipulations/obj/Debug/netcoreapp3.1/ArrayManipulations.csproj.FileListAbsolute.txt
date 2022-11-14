@@ -1,0 +1,14 @@
+C:\Users\ccbrantley\source\repos\ArrayManipulations\bin\Debug\netcoreapp3.1\ArrayManipulations.exe
+C:\Users\ccbrantley\source\repos\ArrayManipulations\bin\Debug\netcoreapp3.1\ArrayManipulations.deps.json
+C:\Users\ccbrantley\source\repos\ArrayManipulations\bin\Debug\netcoreapp3.1\ArrayManipulations.runtimeconfig.json
+C:\Users\ccbrantley\source\repos\ArrayManipulations\bin\Debug\netcoreapp3.1\ArrayManipulations.runtimeconfig.dev.json
+C:\Users\ccbrantley\source\repos\ArrayManipulations\bin\Debug\netcoreapp3.1\ArrayManipulations.dll
+C:\Users\ccbrantley\source\repos\ArrayManipulations\bin\Debug\netcoreapp3.1\ArrayManipulations.pdb
+C:\Users\ccbrantley\source\repos\ArrayManipulations\obj\Debug\netcoreapp3.1\ArrayManipulations.csproj.AssemblyReference.cache
+C:\Users\ccbrantley\source\repos\ArrayManipulations\obj\Debug\netcoreapp3.1\ArrayManipulations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccbrantley\source\repos\ArrayManipulations\obj\Debug\netcoreapp3.1\ArrayManipulations.AssemblyInfoInputs.cache
+C:\Users\ccbrantley\source\repos\ArrayManipulations\obj\Debug\netcoreapp3.1\ArrayManipulations.AssemblyInfo.cs
+C:\Users\ccbrantley\source\repos\ArrayManipulations\obj\Debug\netcoreapp3.1\ArrayManipulations.csproj.CoreCompileInputs.cache
+C:\Users\ccbrantley\source\repos\ArrayManipulations\obj\Debug\netcoreapp3.1\ArrayManipulations.dll
+C:\Users\ccbrantley\source\repos\ArrayManipulations\obj\Debug\netcoreapp3.1\ArrayManipulations.pdb
+C:\Users\ccbrantley\source\repos\ArrayManipulations\obj\Debug\netcoreapp3.1\ArrayManipulations.genruntimeconfig.cache

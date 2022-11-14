@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nekzJVQmX0j/8BafQoF3wd8thTabitX6uBe6psIYU7tKC8PBLN3s2BZ/jMHiyFCI3u/kMkePqfECoMlpIGu1xQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ccbrantley\\source\\repos\\ArrayManipulations\\ArrayManipulations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ccbrantley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
