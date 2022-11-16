@@ -1,0 +1,14 @@
+C:\Users\ccbrantley\source\repos\SGD_113\DuplicateElimination\bin\Debug\netcoreapp3.1\DuplicateElimination.exe
+C:\Users\ccbrantley\source\repos\SGD_113\DuplicateElimination\bin\Debug\netcoreapp3.1\DuplicateElimination.deps.json
+C:\Users\ccbrantley\source\repos\SGD_113\DuplicateElimination\bin\Debug\netcoreapp3.1\DuplicateElimination.runtimeconfig.json
+C:\Users\ccbrantley\source\repos\SGD_113\DuplicateElimination\bin\Debug\netcoreapp3.1\DuplicateElimination.runtimeconfig.dev.json
+C:\Users\ccbrantley\source\repos\SGD_113\DuplicateElimination\bin\Debug\netcoreapp3.1\DuplicateElimination.dll
+C:\Users\ccbrantley\source\repos\SGD_113\DuplicateElimination\bin\Debug\netcoreapp3.1\DuplicateElimination.pdb
+C:\Users\ccbrantley\source\repos\SGD_113\DuplicateElimination\obj\Debug\netcoreapp3.1\DuplicateElimination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccbrantley\source\repos\SGD_113\DuplicateElimination\obj\Debug\netcoreapp3.1\DuplicateElimination.AssemblyInfoInputs.cache
+C:\Users\ccbrantley\source\repos\SGD_113\DuplicateElimination\obj\Debug\netcoreapp3.1\DuplicateElimination.AssemblyInfo.cs
+C:\Users\ccbrantley\source\repos\SGD_113\DuplicateElimination\obj\Debug\netcoreapp3.1\DuplicateElimination.csproj.CoreCompileInputs.cache
+C:\Users\ccbrantley\source\repos\SGD_113\DuplicateElimination\obj\Debug\netcoreapp3.1\DuplicateElimination.dll
+C:\Users\ccbrantley\source\repos\SGD_113\DuplicateElimination\obj\Debug\netcoreapp3.1\DuplicateElimination.pdb
+C:\Users\ccbrantley\source\repos\SGD_113\DuplicateElimination\obj\Debug\netcoreapp3.1\DuplicateElimination.genruntimeconfig.cache
+C:\Users\ccbrantley\source\repos\SGD_113\DuplicateElimination\obj\Debug\netcoreapp3.1\DuplicateElimination.csproj.AssemblyReference.cache
