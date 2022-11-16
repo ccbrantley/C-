@@ -30,10 +30,10 @@ namespace DuplicateElimination_Expected_
 				{
 					Console.WriteLine($"{numberArray[step]} is an unique user input.");
 				}
-                else
-                {
+				else
+				{
 					Console.WriteLine($"{numberArray[step]} is not an unique user input.");
-                }
+				}
 				Console.WriteLine();
 			}
 			Console.WriteLine();
