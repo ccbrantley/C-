@@ -1,0 +1,14 @@
+C:\Users\ccbrantley\source\repos\DuplicateElimination(Expected)\bin\Debug\netcoreapp3.1\DuplicateElimination(Expected).exe
+C:\Users\ccbrantley\source\repos\DuplicateElimination(Expected)\bin\Debug\netcoreapp3.1\DuplicateElimination(Expected).deps.json
+C:\Users\ccbrantley\source\repos\DuplicateElimination(Expected)\bin\Debug\netcoreapp3.1\DuplicateElimination(Expected).runtimeconfig.json
+C:\Users\ccbrantley\source\repos\DuplicateElimination(Expected)\bin\Debug\netcoreapp3.1\DuplicateElimination(Expected).runtimeconfig.dev.json
+C:\Users\ccbrantley\source\repos\DuplicateElimination(Expected)\bin\Debug\netcoreapp3.1\DuplicateElimination(Expected).dll
+C:\Users\ccbrantley\source\repos\DuplicateElimination(Expected)\bin\Debug\netcoreapp3.1\DuplicateElimination(Expected).pdb
+C:\Users\ccbrantley\source\repos\DuplicateElimination(Expected)\obj\Debug\netcoreapp3.1\DuplicateElimination(Expected).csproj.AssemblyReference.cache
+C:\Users\ccbrantley\source\repos\DuplicateElimination(Expected)\obj\Debug\netcoreapp3.1\DuplicateElimination(Expected).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccbrantley\source\repos\DuplicateElimination(Expected)\obj\Debug\netcoreapp3.1\DuplicateElimination(Expected).AssemblyInfoInputs.cache
+C:\Users\ccbrantley\source\repos\DuplicateElimination(Expected)\obj\Debug\netcoreapp3.1\DuplicateElimination(Expected).AssemblyInfo.cs
+C:\Users\ccbrantley\source\repos\DuplicateElimination(Expected)\obj\Debug\netcoreapp3.1\DuplicateElimination(Expected).csproj.CoreCompileInputs.cache
+C:\Users\ccbrantley\source\repos\DuplicateElimination(Expected)\obj\Debug\netcoreapp3.1\DuplicateElimination(Expected).dll
+C:\Users\ccbrantley\source\repos\DuplicateElimination(Expected)\obj\Debug\netcoreapp3.1\DuplicateElimination(Expected).pdb
+C:\Users\ccbrantley\source\repos\DuplicateElimination(Expected)\obj\Debug\netcoreapp3.1\DuplicateElimination(Expected).genruntimeconfig.cache
