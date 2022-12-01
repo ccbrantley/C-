@@ -1,0 +1,13 @@
+C:\Users\ccbrantley\source\repos\Project3 (Lottery Ticket)\bin\Debug\netcoreapp3.1\Project3 (Lottery Ticket).exe
+C:\Users\ccbrantley\source\repos\Project3 (Lottery Ticket)\bin\Debug\netcoreapp3.1\Project3 (Lottery Ticket).deps.json
+C:\Users\ccbrantley\source\repos\Project3 (Lottery Ticket)\bin\Debug\netcoreapp3.1\Project3 (Lottery Ticket).runtimeconfig.json
+C:\Users\ccbrantley\source\repos\Project3 (Lottery Ticket)\bin\Debug\netcoreapp3.1\Project3 (Lottery Ticket).runtimeconfig.dev.json
+C:\Users\ccbrantley\source\repos\Project3 (Lottery Ticket)\bin\Debug\netcoreapp3.1\Project3 (Lottery Ticket).dll
+C:\Users\ccbrantley\source\repos\Project3 (Lottery Ticket)\bin\Debug\netcoreapp3.1\Project3 (Lottery Ticket).pdb
+C:\Users\ccbrantley\source\repos\Project3 (Lottery Ticket)\obj\Debug\netcoreapp3.1\Project3 (Lottery Ticket).csprojAssemblyReference.cache
+C:\Users\ccbrantley\source\repos\Project3 (Lottery Ticket)\obj\Debug\netcoreapp3.1\Project3 (Lottery Ticket).AssemblyInfoInputs.cache
+C:\Users\ccbrantley\source\repos\Project3 (Lottery Ticket)\obj\Debug\netcoreapp3.1\Project3 (Lottery Ticket).AssemblyInfo.cs
+C:\Users\ccbrantley\source\repos\Project3 (Lottery Ticket)\obj\Debug\netcoreapp3.1\Project3 (Lottery Ticket).csproj.CoreCompileInputs.cache
+C:\Users\ccbrantley\source\repos\Project3 (Lottery Ticket)\obj\Debug\netcoreapp3.1\Project3 (Lottery Ticket).dll
+C:\Users\ccbrantley\source\repos\Project3 (Lottery Ticket)\obj\Debug\netcoreapp3.1\Project3 (Lottery Ticket).pdb
+C:\Users\ccbrantley\source\repos\Project3 (Lottery Ticket)\obj\Debug\netcoreapp3.1\Project3 (Lottery Ticket).genruntimeconfig.cache
